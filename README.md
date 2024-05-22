@@ -1,4 +1,4 @@
-# Intrared spectral manipulation 
+# Infrared spectral manipulation 
 
 ## A description of the project: what it does, the aim of the project, and what you learned
 
