@@ -12,8 +12,15 @@ Three.  Produce Python scripts that allow the storage,  annotation, manipulation
 
 
 ## Installation instructions
+### Colab sheets
+Use the open in Colab button to open the sheet in colab.
 ## Usage instructions
 The scripts and algorithms will be made available in three different formats  the first is fire Jupyter notebooks run on Google collapse the second is via a bioinformatics (Galaxy) server  and the third is via a use of Python scripts.
+### Colab sheets
+#### Infrared spectral manipulation: *.asp to *.csv (asptocsv.ipynb)
+Takes a lab book code and a single *.asp IR spectra and converts it into a long thin (yes I know its transposed) spectra in *.csv format. The orginal *.asp and long thin *.csv files are downloaded as a *.zipfile named after the lab book code.
+#### Infrared multi-spectral manipulation: *.asp to *.csv (asptocsv_multi.ipynb)
+Takes a lab book code and multiple *.asp IR spectra and converts it into a long thin (yes I know its transposed) set of spectra in *.csv format. The orginal *.asp files and long thin *.csv files are downloaded as a *.zipfile named after the lab book code.
 ## File structure of the project
 ## License information
 
